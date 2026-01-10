@@ -1,3 +1,3 @@
 # Interval Timer
-  ## サポート連絡先: tallpoletolerance@gmail.com
+  ### サポート連絡先: tallpoletolerance@gmail.com
   
